@@ -1,41 +1,12 @@
 {
     "datas": [
-        {
-            "name": "pornhub.com",
-            "pattern": [
-                "document.querySelector('video').querySelector('source[type=videomp4]').src)",
-                "document.querySelector('video').src"
-            ]
-        },
-        {
-            "name": "hentaihaven.org",
-            "pattern": [
-                "document.querySelector('video').querySelector('source[type=videomp4]').src",
-                "document.querySelector('video').src"
-            ]
-        },
-        {
-            "name": "xnxx.com",
-            "pattern": [
-                "html5player.url_high",
-                "html5player.url_low"
-            ]
-        },
-        {
-            "name": "xvideos.com",
-            "pattern": [
-                "html5player.url_high",
-                "html5player.url_low"
-            ]
-        },
-        {
-            "name": "hentaihaven.org",
-            "pattern": [
-                "document.querySelector('video').querySelector('source[res=\"1080p\"]').src",
-                "document.querySelector('video').querySelector('source[res=\"720p\"]').src",
-                "document.querySelector('video').querySelector('source[res=\"480p\"]').src",
-                "document.querySelector('video').querySelector('source[res=\"360p\"]').src"
-            ]
-        }
+        ".*//vssauth.waqu.com/.*/normal.mp4.*",
+        "*hotsoon.snssdk.com/hotsoon/item/video.*",
+        ".*music.qqvideo.tc.qq.com/.*.mp4.*",
+        ".*v7.pstatp.com.*/origin/.*",
+        ".*pstatp.com.*/video/.*",
+        ".*googlevideo.com.*",
+        ".*tumblr.com/video_file/.*",
+        "^((?!vmind.qqvideo|btrace.video|www.facebook.com|data.video.qiyi.com).)*(.mp4|.3gp|.swf|.flv)(?!?vframe|%3F|%22%2C|v=).*$"
     ]
 }
