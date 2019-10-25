@@ -1,0 +1,44 @@
+{
+    "speeddials": [
+    {
+      "title": "Facebook",
+      "url": "https://m.facebook.com/",
+      "path": "/speeddial/facebook_logo.png"
+    },
+    {
+      "title": "Google",
+      "url": "https://www.google.com/",
+      "path": "/speeddial/google_logo.png"
+    },
+    {
+      "title": "CNN",
+      "url": "http://edition.cnn.com",
+      "path": "/speeddial/cnn_logo.png"
+    },
+    {
+      "title": "Tumblr",
+      "url": "https://www.tumblr.com/",
+      "path": "/speeddial/tumblr_logo.png"
+    },
+    {
+      "title": "Twitter",
+      "url": "https://mobile.twitter.com/",
+      "path": "/speeddial/twitter_logo.png"
+    },
+    {
+      "title": "Vimeo",
+      "url": "https://vimeo.com/search?q=trending",
+      "path": "/speeddial/vimeo_logo.png"
+    },
+    {
+      "title": "Instagram",
+      "url": "https://www.instagram.com/",
+      "path": "/speeddial/instagram_logo.png"
+    },
+    {
+      "title": "TikTok",
+      "url": "https://www.tiktok.com/en/trending",
+      "path": "/speeddial/tiktok.png"
+    }
+  ]
+}
