@@ -7,6 +7,6 @@
         ".*pstatp.com.*/video/.*",
         ".*googlevideo.com.*",
         ".*tumblr.com/video_file/.*",
-        "^((?!vmind.qqvideo|btrace.video|www.facebook.com|data.video.qiyi.com).)*(.mp4|.3gp|.swf|.flv)(?!?vframe|%3F|%22%2C|v=).*$"
+        ".^((?!vmind.qqvideo|btrace.video|www.facebook.com|data.video.qiyi.com).)*(.mp4|.3gp|.swf|.flv)(?!?vframe|%3F|%22%2C|v=).*$"
     ]
 }
