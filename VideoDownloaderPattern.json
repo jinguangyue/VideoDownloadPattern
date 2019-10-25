@@ -1,7 +1,7 @@
 {
     "datas": [
         ".*//vssauth.waqu.com/.*/normal.mp4.*",
-        "*hotsoon.snssdk.com/hotsoon/item/video.*",
+        ".*hotsoon.snssdk.com/hotsoon/item/video.*",
         ".*music.qqvideo.tc.qq.com/.*.mp4.*",
         ".*v7.pstatp.com.*/origin/.*",
         ".*pstatp.com.*/video/.*",
