@@ -1,0 +1,67 @@
+{
+    "speeddials": [
+    {
+      "title": "Facebook",
+      "url": "https://m.facebook.com/",
+      "imglink": "https://lh3.googleusercontent.com/ccWDU4A7fX1R24v-vvT480ySh26AYp97g1VrIB_FIdjRcuQB2JP2WdY7h_wVVAeSpg=s180-rw",
+        "ads":"0",
+        "packageName":""
+    },
+    {
+      "title": "Google",
+      "url": "https://www.google.com/",
+      "imglink": "https://lh3.googleusercontent.com/DKoidc0T3T1KvYC2stChcX9zwmjKj1pgmg3hXzGBDQXM8RG_7JjgiuS0CLOh8DUa7as=s180-rw",
+        "ads":"0",
+        "packageName":""
+    },
+    {
+      "title": "CNN",
+      "url": "http://edition.cnn.com",
+      "imglink": "https://lh3.googleusercontent.com/m05SBF4omSJbBy-EnPClGH_yAVvgAn6wr6KQwdtXhn6ATylzMYYJb6WaW-pNbtmqg5I=s180-rw",
+        "ads":"0",
+        "packageName":""
+    },
+    {
+      "title": "Tumblr",
+      "url": "https://www.tumblr.com/",
+      "imglink": "https://lh3.googleusercontent.com/vbQuu0upc7vxFllvlXfUtrieyHZWOknG57Ey9Q4rdKmRmrYvl0KTjG2so_0eex0Hi2k=s180-rw",
+        "ads":"0",
+        "packageName":""
+    },
+    {
+      "title": "Twitter",
+      "url": "https://mobile.twitter.com/",
+      "imglink": "https://lh3.googleusercontent.com/wIf3HtczQDjHzHuu7vezhqNs0zXAG85F7VmP7nhsTxO3OHegrVXlqIh_DWBYi86FTIGk=s180-rw",
+        "ads":"0",
+        "packageName":""
+    },
+    {
+      "title": "Vimeo",
+      "url": "https://vimeo.com/search?q=trending",
+      "imglink": "https://lh3.googleusercontent.com/hIckHVP84kogkZ7yGwlMZD8xPnJBDkS_EntshszgtI4kJK0_uCCpbqcuX0GLnJUvN3k=s180-rw",
+        "ads":"0",
+        "packageName":""
+    },
+    {
+      "title": "Instagram",
+      "url": "https://www.instagram.com/",
+      "imglink": "https://lh3.googleusercontent.com/2sREY-8UpjmaLDCTztldQf6u2RGUtuyf6VT5iyX3z53JS4TdvfQlX-rNChXKgpBYMw=s180-rw",
+        "ads":"0",
+        "packageName":""
+    },
+    {
+      "title": "TikTok",
+      "url": "https://www.tiktok.com/en/trending",
+      "imglink": "https://lh3.googleusercontent.com/z5nin1RdQ4UZhv6fa1FNG7VE33imGqPgC4kKZIUjgf_up7E-Pj3AaojlMPwNNXaeGA=s180-rw",
+        "ads":"0",
+        "packageName":""
+    },
+    {
+      "title": "TikDown",
+      "url": "",
+      "imglink": "https://lh3.googleusercontent.com/siTacd1LGOhrA5enQi4zfTucHYzbrZWE0h21Lo_9RQwsLW9ozgYH6h_rysLWbJGbdoQ=s360-rw",
+        "ads":"1",
+        "packageName":"com.tiktok.videodownloader.tikvideodownloader"
+    }
+  ]
+}
