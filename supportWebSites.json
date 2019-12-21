@@ -62,6 +62,13 @@
       "imglink": "https://lh3.googleusercontent.com/siTacd1LGOhrA5enQi4zfTucHYzbrZWE0h21Lo_9RQwsLW9ozgYH6h_rysLWbJGbdoQ=s360-rw",
         "ads":"1",
         "packageName":"com.tiktok.videodownloader.tikvideodownloader"
+    },
+    {
+      "title": "InsDown",
+      "url": "",
+      "imglink": "https://lh3.googleusercontent.com/20arfrSka9men5cBLxFhQb-PI966dTelM_8u0YKekpCvQ5oRqnT6xcmxS0z8wF4lvw=s360-rw",
+        "ads":"1",
+        "packageName":"com.storysaver.savestoryforins"
     }
   ]
 }
