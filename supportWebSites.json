@@ -62,13 +62,6 @@
       "imglink": "https://lh3.googleusercontent.com/hlmwOk0S4cXC949YgGmK4RzUqp4PEQvMIXcmhLhSyKnKp0rf0pL8zoEJyDNOWfnfOJE=s360-rw",
         "ads":"1",
         "packageName":"com.downloader.videodownloaderanth.xdownloader"
-    },
-    {
-      "title": "TikDown",
-      "url": "",
-      "imglink": "https://lh3.googleusercontent.com/siTacd1LGOhrA5enQi4zfTucHYzbrZWE0h21Lo_9RQwsLW9ozgYH6h_rysLWbJGbdoQ=s360-rw",
-        "ads":"1",
-        "packageName":"com.tiktok.videodownloader.tikvideodownloader"
     }
   ]
 }
